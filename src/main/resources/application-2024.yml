@@ -1,0 +1,14 @@
+application:
+  taxRates:
+    -
+      rate: 23
+      lowerBound: 0
+      upperBound: 28000
+    -
+      rate: 35
+      lowerBound: 28000
+      upperBound: 50000
+    -
+      rate: 43
+      lowerBound: 50000
+      upperBound: 90000000000000
